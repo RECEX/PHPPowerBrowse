@@ -10,7 +10,7 @@
 /*************************************************/
 
 /* Config */
-$GLOBALS['CONFIG']['PAGE_TITLE'] = 'PHP Power Browse';
+$GLOBALS['CONFIG']['PAGE_TITLE'] = 'Recex - Browse the Database';
 $GLOBALS['CONFIG']['THUMB_HEIGHT'] = 16;
 $GLOBALS['CONFIG']['THUMB_WIDTH'] = 16;
 $GLOBALS['CONFIG']['DISPLAY_HIDDEN'] = FALSE;
