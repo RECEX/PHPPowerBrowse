@@ -252,7 +252,7 @@ function pagefoot() {
 	echo '</table></table></table></table>'. 
 	 		'<table width="100%"><tr><td align="right">'. 
 	 		'<font class="copyright">'.
-	 		'PHP Power Browse &copy; 2004-'.date('Y').' <a href="http://devin.la">devin.la</a>'.
+	 		'Recex &copy; 2013 <a href="http://recex.co.in">recex.co.in</a>'.
 	 		'</font></table></table>';
 	exit;
 }
