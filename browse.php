@@ -15,7 +15,7 @@ $GLOBALS['CONFIG']['THUMB_HEIGHT'] = 16;
 $GLOBALS['CONFIG']['THUMB_WIDTH'] = 16;
 $GLOBALS['CONFIG']['DISPLAY_HIDDEN'] = FALSE;
 $GLOBALS['CONFIG']['PROCESS_INDEX'] = FALSE;
-$GLOBALS['CONFIG']['BG_IMAGE'] = '';
+$GLOBALS['CONFIG']['BG_IMAGE'] = 'logo.jpg';
 
 $GLOBALS['CONFIG']['ENABLE_LINE_COUNT'] = true;
 $GLOBALS['CONFIG']['ENABLE_SOURCE_VIEW'] = true;
@@ -36,7 +36,7 @@ $GLOBALS['CONFIG']['TB_COLOR_3'] = '#BDBDD6';
 $GLOBALS['CONFIG']['TB_COLOR_4'] = '#FFFFFF';
 
 $GLOBALS['CONFIG']['IGNORE_DIRS'] = array('./logs');
-$GLOBALS['CONFIG']['HIDE_FILES'] = array('./index.php');
+$GLOBALS['CONFIG']['HIDE_FILES'] = array('./index.php','./logo.jpg');
 $GLOBALS['CONFIG']['DENY_SOURCE'] = array('index.php');
 $GLOBALS['CONFIG']['PROTECTED_DIRS'] = array('./protected');
 $GLOBALS['CONFIG']['CODE_FILES'] = array('php','php4','php3','phtml','html','htm','js','asp','xml','css','bml','cgi','cfm','apm','jhtml','xhtml','aspx','tpl','inc','c','h','vb','py','sh','pl','cpp','cs');
